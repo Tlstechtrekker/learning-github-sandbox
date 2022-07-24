@@ -1,0 +1,11 @@
+body {
+    background-color: blueviolet;
+    background-image: url("images/evening_reflections.jpg");
+    color: #fff;
+}
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.accent{
+    color:#b35f2c;
+}
